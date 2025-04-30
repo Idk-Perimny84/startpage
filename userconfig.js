@@ -9,7 +9,7 @@ const default_config = {
   tabs: [
     {
       name: "home",
-      background_url: `src/img/banners/cbg-8.gif`,
+      background_url: `src/img/banners/cbg-4.gif`,
       categories: [
         {
           name: "",
@@ -21,17 +21,30 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-              name: "classroom",
-              url: "https://classroom.google.com/u/1/",
-              icon: "books",
-              icon_color: palette.green,
+              name: "Pinterest",
+              url: "https://br.pinterest.com/",
+              icon: "brand-pinterest",
+              icon_color: palette.red,
             },
             {
-              name: "docs",
-              url: "https://docs.google.com/document/u/0/",
-              icon: "file-text",
+              name: "Cursou",
+              url: "www.cursou.com.br",
+              icon: "book",
               icon_color: palette.blue,
             },
+            {
+              name: "Remove-bg",
+              url: "https://www.remove.bg/pt-br",
+              icon: "file-type-png",
+              icon_color: palette.yellow,
+            },
+            {
+              name: "Monkeytype",
+              url: "https://monkeytype.com/",
+              icon: "keyboard",
+              icon_color: palette.yellow,
+            },
+            {
           ],
         },
         {
