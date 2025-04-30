@@ -22,7 +22,7 @@ const default_config = {
             },
             {
               name: "Pinterest",
-              url: "https://br.pinterest.com/,
+              url: "https://br.pinterest.com/",
               icon: "brand-pinterest",
               icon_color: palette.red,
             },
@@ -101,7 +101,7 @@ const default_config = {
               icon: "book",
               icon_color: palette.lavender,
             },
-          ]
+          ],
         },
         {
           name: "",
@@ -124,7 +124,7 @@ const default_config = {
               icon: "flare",
               icon_color: palette.blue,
             },
-          ]
+          ],
         },
       ],
     },
