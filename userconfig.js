@@ -21,6 +21,12 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
+              name: "Animes",
+              url: "https://animesdrive.blog/",
+              icon: "brand-netflix",
+              icon_color: palette.red,
+            },
+            {
               name: "Pinterest",
               url: "https://br.pinterest.com/",
               icon: "brand-pinterest",
