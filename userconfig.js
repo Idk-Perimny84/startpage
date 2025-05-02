@@ -9,7 +9,7 @@ const default_config = {
   tabs: [
     {
       name: "home",
-      background_url: `src/img/banners/cbg-4.gif`,
+      background_url: `src/img/banners/cbg-5.gif`,
       categories: [
         {
           name: "",
@@ -25,6 +25,12 @@ const default_config = {
               url: "https://br.pinterest.com/",
               icon: "brand-pinterest",
               icon_color: palette.red,
+            },
+            {
+              name: "Xadrez",
+              url: "https://www.chess.com/home",
+              icon: "chess",
+              icon_color: palette.yellow,
             },
             {
               name: "Cleanup-images",
